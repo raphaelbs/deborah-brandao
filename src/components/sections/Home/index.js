@@ -23,7 +23,7 @@ function Home() {
   };
 
   return (
-    <Grid container spacing={0} style={{ height: '100%', margin: 0 }}>
+    <Grid container spacing={0} className="viewport">
       <Grid
         item
         container

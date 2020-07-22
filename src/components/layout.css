@@ -8,3 +8,8 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background-color: #eeeeee;
 }
+
+.viewport {
+  height: 100%;
+  margin: 0;
+}
